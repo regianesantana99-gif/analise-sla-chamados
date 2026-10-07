@@ -11,7 +11,6 @@ Desenvolver uma ferramenta para acompanhamento do cumprimento de SLA de chamados
 
 ## Principais análises
 
-- Total de processos
 - Chamados dentro do SLA
 - Chamados fora do SLA
 - Percentual de cumprimento do SLA
